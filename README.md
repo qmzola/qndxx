@@ -38,3 +38,5 @@
 **Netlify**
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hx-w/qndxx)
+
+本项目是[https://github.com/hx-w/qndxx](https://github.com/hx-w/qndxx)的分支
